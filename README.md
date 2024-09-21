@@ -4,6 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)](https://www.instagram.com/toffetti.20?igsh=MTR3YXU4YnF5MnhxeQ==)
 
 ![Toffetti GitHub stats](https://github-readme-stats.vercel.app/api?username=toffettl&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso
 
