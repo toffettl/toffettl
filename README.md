@@ -16,5 +16,5 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br>
-Estudante de programação, cursando o segundo ano do ensino médio e apaxionado pelo que eu faço.
+Estudante de programação, cursando o terceiro ano do ensino médio e técnico de desenvolvimento de sistemas e apaxionado pelo que eu faço.
 
