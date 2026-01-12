@@ -8,7 +8,7 @@ Sempre em busca de aprimoramento contínuo e de desenvolver minhas **habilidades
 ## 📌 Sobre mim  
 
 - 👨‍💻 **Desenvolvedor Backend** apaixonado por tecnologia  
-- 🎓 **Estudante de Desenvolvimento de Sistemas**  
+- 🎓 **Formado em Desenvolvimento de Sistemas**  
 - 🏗 **Praticante de boas práticas:** Clean Architecture, SOLID, Repository Pattern e Unit of Work  
 - 🤖 Atualmente aprendendo sobre **Machine Learning com ML.NET**  
 - ⚡ Experiência com **autenticação JWT**, refresh token, CORS, rate limiting e programação assíncrona  
