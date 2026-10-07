@@ -166,8 +166,6 @@ My goal is to combine **strong problem solving and high-level software engineeri
 
 ## Contact
 
-I'm always open to discussing software engineering, backend development, Rust, systems programming, or interesting projects.
-
 **LinkedIn:** https://www.linkedin.com/feed/
 
 **Email:** felipe@rsilvestre.com.br
